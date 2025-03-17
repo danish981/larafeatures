@@ -1,2 +1,3 @@
 - Passport setup
 - Some API endpoints to do some random tasks
+- Getting big array of data from exeranl source into the database
